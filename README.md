@@ -3,7 +3,7 @@ Run Length Limited Encoder and Decoder for IEEE 802.15.7, implementing Mancheste
 
 The 8B10B Enc/Dec is a third party IP made by Ken Boyette, under GPL License. https://opencores.org/projects/8b10b_encdec
 
-This project contains FIFOs from Intel Quartus Prime IP Catalog, which can be used for free in Quartus Prime Lite.
+This project contains FIFOs and Shift Registers from Intel Quartus Prime IP Catalog, which can be used for free in Quartus Prime Lite.
 
 All other files/IPs are under MIT License.
 
