@@ -7,6 +7,6 @@ This project contains FIFOs and Shift Registers from Intel Quartus Prime IP Cata
 
 All other files/IPs are under MIT License.
 
-The core wasn't fully verified, so beware of some bugs.
+I've done my best to verify this IP and make it bug-free, but it is possible that I may have overlooked something.
 
 The project was a Final Paper at UFMG's (Universidade Federal de Minas Gerais, Brasil) Electrical Engineering Undergraduate Course. It is part of a larger project aiming to develop a complete PHY layer for IEEE 802.15.7. The Foward Error Correction core is available at https://github.com/mateusgs/FEC_IEEE.802.15.7
